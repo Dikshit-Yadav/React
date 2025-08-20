@@ -36,6 +36,8 @@ function App() {
           <div className="cart">carts</div>
           <div className="cart">carts</div>
           <div className="cart">carts</div>
+          <div className="cart">carts</div>
+          <div className="cart">carts</div>
         </div>
       </main>
     </>
