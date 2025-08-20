@@ -1,0 +1,43 @@
+* {
+    font-size: large;
+}
+
+.navbar {
+    display: flex;
+    background: lightblue;
+    justify-content: space-between;
+}
+
+.left {
+    margin-left: 20px;
+}
+
+i {
+    margin-right: 20px;
+}
+
+.right {
+    margin-right: 20px;
+}
+
+.hero {
+    height: 100px;
+    width: full;
+    background: rgb(100, 166, 186);
+    margin-top: 6px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cartSection {
+    background-color: red;
+    display: grid;
+    grid-template: 150px / auto auto auto auto;
+    gap: 6px;
+}
+    .cart {
+        background-color: red;
+    }
